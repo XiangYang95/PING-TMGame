@@ -1,0 +1,382 @@
+fileFormatVersion: 2
+guid: 7b557891b2b734718986aa010d58a112
+timeCreated: 1517267478
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: wires 1_0
+    21300002: wires 1_1
+    21300004: wires 1_2
+    21300006: wires 1_3
+    21300008: wires 1_4
+    21300010: wires 1_5
+    21300012: wires 1_6
+    21300014: wires 1_7
+    21300016: wires 1_8
+    21300018: wires 1_9
+    21300020: wires 1_10
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: wires 1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 12.016342}
+        - {x: -12.056152, y: 12.430817}
+        - {x: -12.203674, y: 32}
+        - {x: -32, y: 32}
+      - - {x: 12.692184, y: 11.630417}
+        - {x: 12.692181, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: 11.630417}
+      - - {x: 12.692184, y: -32}
+        - {x: 12.692184, y: -12.871887}
+        - {x: 32, y: -12.871887}
+        - {x: 32, y: -32}
+      - - {x: -32, y: -32}
+        - {x: -32, y: -11.891785}
+        - {x: -11.483416, y: -11.8918}
+        - {x: -11.156719, y: -32}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wires 1_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 10.809097}
+        - {x: 32, y: 11.135788}
+        - {x: 32, y: 32}
+        - {x: -32, y: 32}
+      - - {x: -32, y: -32}
+        - {x: -32, y: -11.565094}
+        - {x: 32, y: -11.565094}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wires 1_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -11.769272, y: -32}
+        - {x: -11.115875, y: 32}
+      - - {x: 12.757523, y: -32}
+        - {x: 13.0842285, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wires 1_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 11.03624, y: -9.8172455}
+        - {x: -32, y: -10.099533}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+        - {x: 11.079636, y: 32}
+      - - {x: -32, y: 12.610504}
+        - {x: -32, y: 32}
+        - {x: -13.998978, y: 31.88565}
+        - {x: -13.998993, y: 12.283813}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wires 1_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 9.482384}
+        - {x: 12.769272, y: 9.1638565}
+        - {x: 13.079632, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      - - {x: -32, y: -32}
+        - {x: -32, y: -12.25116}
+        - {x: -11.156719, y: -12.25116}
+        - {x: -11.156719, y: -32}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wires 1_5
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -10.749359, y: -32}
+        - {x: -10.47065, y: 10.789177}
+        - {x: 32, y: 10.5868225}
+        - {x: 32, y: 32}
+      - - {x: 12.7248535, y: -32}
+        - {x: 12.724861, y: -12.25116}
+        - {x: 32, y: -11.924461}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wires 1_6
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -10.769272}
+        - {x: -10.646744, y: -10.444069}
+        - {x: -11.402756, y: 32}
+      - - {x: 12.430832, y: 11.597748}
+        - {x: 12.430832, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: 11.597748}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wires 1_7
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 10.769272, y: 32}
+        - {x: 11.115875, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: 32}
+      - - {x: -32, y: -32}
+        - {x: -32, y: -10.944366}
+        - {x: -12.365494, y: -10.944366}
+        - {x: -12.365509, y: -32}
+      - - {x: -32, y: 11.924446}
+        - {x: -32, y: 32}
+        - {x: -13.345581, y: 32}
+        - {x: -13.01889, y: 12.251137}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wires 1_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: 11.362938}
+        - {x: 32, y: 11.183765}
+        - {x: 32, y: 32}
+      - - {x: -32, y: -32}
+        - {x: -32, y: -11.303736}
+        - {x: -11.156719, y: -11.630432}
+        - {x: -10.830021, y: -32}
+      - - {x: 11.058697, y: -32}
+        - {x: 11.058697, y: -12.283825}
+        - {x: 32, y: -11.957129}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wires 1_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: 32}
+        - {x: -32, y: -32}
+        - {x: -10.729454, y: -32}
+        - {x: -10.570183, y: 32}
+      - - {x: 11.41806, y: 9.931591}
+        - {x: 11.41806, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: 9.931591}
+      - - {x: 11.744759, y: -32}
+        - {x: 12.071457, y: -11.630432}
+        - {x: 32, y: -11.303736}
+        - {x: 32, y: -32}
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: wires 1_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -32, y: -10.797344}
+        - {x: -32, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -10.797348}
+      - - {x: 11.450729, y: 9.931591}
+        - {x: 11.450729, y: 32}
+        - {x: 32, y: 32}
+        - {x: 32, y: 10.2582855}
+      - - {x: -32, y: 10.584984}
+        - {x: -32, y: 32}
+        - {x: -11.091385, y: 32}
+        - {x: -11.418076, y: 10.584984}
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
